@@ -1,0 +1,14 @@
+--------------------------------
+Data: 2022-07-06
+Iloœæ:  16
+Ca³a kwota: 112 z³
+Koszty: 48 z³
+Zysk: 64 z³
+Podzia³: 32.0 z³
+--------------------------------
+Data: 2023-01-23
+Iloœæ:  0
+Ca³a kwota: 0 z³
+Koszty: 0 z³
+Zysk: 0 z³
+Podzia³: 0.0 z³
