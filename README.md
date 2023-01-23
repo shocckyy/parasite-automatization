@@ -1,2 +1,2 @@
 # parasite atomatization
- Application made for automatization
+ Application made for fast automatization
